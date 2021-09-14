@@ -1,5 +1,5 @@
 
-## **Top-down learning path: Quantiative Analysis for Investment**
+## **How to invest in Blockchain**
 
 Inspired by
     - [ZuzooVn](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
