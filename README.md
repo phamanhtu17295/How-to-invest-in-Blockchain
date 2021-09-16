@@ -100,4 +100,4 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
 - [Stefan Jenson](https://www.linkedin.com/in/applied-ai/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAJd5GkBp46JxYaEjOiDeItfnkNe9boljUs)\
 - [Paul Wilmot](https://wilmott.com/)
 
-
+a
