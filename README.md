@@ -62,8 +62,7 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
 
 
 ## ***Investment Due Diligence Checklist:***
-## ***Technology evaluation:***
-
+***Technology evaluation:***
     -   Quality Whitepaper
     -   Innovation Product
     -   Blockchain Technology Stack (Application, Services and Optional Components, Protocol, Network, Infrastructure)
@@ -71,7 +70,6 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
     -   Adoption Rate/ Time Frame
     -   Project Timeline/Code 
     -   Quality of Code (Github)
-    
 ## ***Founder/CoreTeam/Advisor:***
 
     -   Verified Background & Reputation (linkedln, Github,Facebook, Google Research)
