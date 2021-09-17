@@ -79,7 +79,7 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
 -   Industry/Proffesional Network
 -   Vision/Mission/Culture
 -   Venture Capital Support (crunchbase, angel, techdealasisa)
--   
+
 ## ***Market Presence/Community/Supporter:***
 
 -   Website Analytics (traffic, benchmark with competitor, Growth Rate)
