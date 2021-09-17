@@ -19,7 +19,7 @@ Table of Contents
     -   [Token Generation Event/Deal Structure](#Token-Generation-Event/Deal-Structure)
     -   [Financial/Investment/Risk Analysis](#Financial/Investment/Risk Analysis)
     -   [Legal/Security/Exit Plan](#Legal/Security/Exit Plan)
-    -   [Other]Crypto Signal/Advanced Analytics
+    -   [Other](#Other)
 -   [Crypto Signal/Advanced Analytics](#Crypto-Signal/Advanced Analytics)
 -   [Education Source](#Education-Source)
 -   [About Video Resources](#About-Video-Resources)
