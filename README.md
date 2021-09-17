@@ -62,7 +62,7 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
 
 
 ## ***Investment Due Diligence Checklist:***
-***Technology evaluation:***
+## ***Technology evaluation:***
 
     -   Quality Whitepaper
     -   Innovation Product
@@ -71,6 +71,7 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
     -   Adoption Rate/ Time Frame
     -   Project Timeline/Code 
     -   Quality of Code (Github)
+    
 ## ***Founder/CoreTeam/Advisor:***
 
     -   Verified Background & Reputation (linkedln, Github,Facebook, Google Research)
@@ -78,7 +79,6 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
     -   Industry/Proffesional Network
     -   Vision/Mission/Culture
     -   Venture Capital Support (crunchbase, angel, techdealasisa)
-    
 ## ***Market Presence/Community/Supporter:***
 
     -   Website Analytics (traffic, benchmark with competitor, Growth Rate)
@@ -88,16 +88,21 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
     -   Community Interaction
     
 ## ***Business Model:***
+
     -   Blockchain Technology Layer (Application, Services and Optional Components, Protocol, Network, Infrastructure)
     -   Project Stage(Pre-seed, Seed, Early, Growth, Expansion, Exit)
+    
 ## ***Token Generation Event/Deal Structure:***
+
     -   Token Sale
     -   Tokenomics
     -   Token Release
     -   Capital Allocation, The use of money investment
     -   Trading Infrastrucutre (Listing, wallet, ecosystem)
     -   Coin Wallet 
+    
 ## ***Financial/Investment/Risk Analysis***
+
     -   Market Cap (top 50, top 300, top 500)
     -   Value at risk
     -   Total transaction value daily
@@ -105,10 +110,14 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
     -   Revenue
     -   Direct & potential competitors & Peer Review 
     -   Value Chain Analysis & Market structure & Growth Potential
+    
 ## ***Legal/Security/Exit Plan***
+
     -   Legal (Token Safe Harbor Proposal)
     -   Security (Turing, Wasm,  On-Chain Governance)
+    
 ## ***Blockchain Scoring/Peer review***
+
     - [Blockchain Scoring Sample](https://docs.google.com/spreadsheets/d/15f423oifh1bykmVEZBBJPgN7Q4jdEsKJ/edit?usp=sharing&ouid=108188781270068184296&rtpof=true&sd=true)
 
 ## ***Other (To be updated)***
@@ -160,5 +169,3 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
     -   [SpartanBlack](https://twitter.com/SpartanBlack_1)
     -   [Elon Musk](https://twitter.com/elonmusk)
     -   [CZ](https://twitter.com/cz_binance)
-
-a
