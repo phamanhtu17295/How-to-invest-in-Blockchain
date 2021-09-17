@@ -63,12 +63,19 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
 ## ***Investment Due Diligence Checklist:***
 
 ## ***Technology evaluation:***
+
 ## ***Founder/CoreTeam/Advisor:***
+
 ## ***Market Presence/Community/Supporter:***
+
 ## ***Business Model:***
+
 ## ***Token Generation Event/Deal Structure:***
+
 ## ***Financial/Investment/Risk Analysis***
+
 ## ***Legal/Security/Exit Plan***
+
 ## ***Other***
 
 ## ***Crypto Signal/Advanced Analytics:***
