@@ -20,7 +20,7 @@ Table of Contents
     -   [Financial/Investment/Risk Analysis](#Financial/Investment/Risk Analysis)
     -   [Legal/Security/Exit Plan](#Legal/Security/Exit Plan)
     -   [Other](#Other)
--   [Crypto Signal/Advanced Analytics](#Crypto-Signal/Advanced Analytics)
+-   [Crypto Signal/Advanced Analytics](#Crypto-Signal/Advanced-Analytics)
 -   [Education Source](#Education-Source)
 -   [About Video Resources](#About-Video-Resources)
 -   [Book List](#Book-List)
@@ -61,14 +61,15 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
 
 
 ## ***Investment Due Diligence Checklist:***
-    ## ***Technology evaluation:***
-    ## ***Founder/CoreTeam/Advisor:***
-    ## ***Market Presence/Community/Supporter:***
-    ## ***Business Model:***
-    ## ***Token Generation Event/Deal Structure:***
-    ## ***Financial/Investment/Risk Analysis:***
-    ## ***Legal/Security/Exit Plan:***
-    ## ***Other:***
+
+## ***Technology evaluation:***
+## ***Founder/CoreTeam/Advisor:***
+## ***Market Presence/Community/Supporter:***
+## ***Business Model:***
+## ***Token Generation Event/Deal Structure:***
+## ***Financial/Investment/Risk Analysis:***
+## ***Legal/Security/Exit Plan:***
+## ***Other:***
 
 ## ***Crypto Signal/Advanced Analytics:***
 -   [Crypto Quant](https://cryptoquant.com/overview/btc-exchange-flows)
