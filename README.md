@@ -12,14 +12,15 @@ Table of Contents
 -   [What do I have for you?](#What-do-I-have-for-you-?)
 -   [Why use it?](#why-use-it?)
 -   [Investment Due Diligence Checklist](#Investment-Due-Diligence-Checklist)
-    -   [Techonology evaluation](#Technoogy-evaluation)
+    -   [Technology evaluation](#Technology-evaluation)
     -   [Founder/CoreTeam/Advisor](#Founder/CoreTeam/Advisor)
     -   [Market Presence/Community/Supporter](#Market-Presence/Community/Supporter)
     -   [Business Model](#Business-Model)
     -   [Token Generation Event/Deal Structure](#Token-Generation-Event/Deal-Structure)
     -   [Financial/Investment/Risk Analysis](#Financial/Investment/Risk Analysis)
     -   [Legal/Security/Exit Plan](#Legal/Security/Exit Plan)
-    -   [Other]
+    -   [Other]Crypto Signal/Advanced Analytics
+-   [Crypto Signal/Advanced Analytics](#Crypto-Signal/Advanced Analytics)
 -   [Education Source](#Education-Source)
 -   [About Video Resources](#About-Video-Resources)
 -   [Book List](#Book-List)
@@ -60,21 +61,23 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
 
 
 ## ***Investment Due Diligence Checklist:***
-    ## ***Technoogy evaluation:***
+    ## ***Technology evaluation:***
+    ## ***Founder/CoreTeam/Advisor:***
+    ## ***Market Presence/Community/Supporter:***
+    ## ***Business Model:***
+    ## ***Token Generation Event/Deal Structure:***
+    ## ***Financial/Investment/Risk Analysis:***
+    ## ***Legal/Security/Exit Plan:***
+    ## ***Other:***
 
-    -   [Techonology evaluation](#Technoogy-evaluation)
-    -   [Founder/CoreTeam/Advisor](#Founder/CoreTeam/Advisor)
-    -   [Market Presence/Community/Supporter](#Market-Presence/Community/Supporter)
-    -   [Business Model](#Business-Model)
-    -   [Token Generation Event/Deal Structure](#Token-Generation-Event/Deal-Structure)
-    -   [Financial/Investment/Risk Analysis](#Financial/Investment/Risk Analysis)
-    -   [Legal/Security/Exit Plan](#Legal/Security/Exit Plan)
-    -   [Other]
-
-## ***Crypto Signal:***
+## ***Crypto Signal/Advanced Analytics:***
+-   [Crypto Quant](https://cryptoquant.com/overview/btc-exchange-flows)
+-   [Messari](https://messari.io/)
+-   [GlassNode](https://studio.glassnode.com/dashboards/btc-core-on-chain)
 -   [freqtrade](https://github.com/freqtrade/freqtrade)
 -   [Superalgos](https://github.com/Superalgos/Superalgos)
 -   [Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal)
+-   
 
 ## ***Book List:***
 [Bitcoin, ETH, KNC White paper, How to build your first BlockChain](https://drive.google.com/drive/folders/1zSJWx8KtwoWmktHTZoc9TXwkNRPv8-fv?usp=sharing)
