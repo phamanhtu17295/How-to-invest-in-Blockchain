@@ -5,19 +5,24 @@ Inspired by
     - [Hung Dinh](https://www.facebook.com/groups/857926278494577/user/1183070005/)
     - [Nguyen The Vinh](https://www.facebook.com/drofin69)
 
-How I (Tu Anh) plan to become a Financial Engineer
+How I (Tu Anh) doing analyst on blockchain project
 
 Table of Contents
 =================
 -   [What do I have for you?](#What-do-I-have-for-you-?)
 -   [Why use it?](#why-use-it?)
--   [Investment ](#Data-processing-and-curation)
--   [Investment Strategies/Alpha/Feature Analysis](#Investment-Strategies/Alpha/Feature-Analysis)
+-   [Investment Due Diligence Checklist](#Investment-Due-Diligence-Checklist)
+    -   [Techonology evaluation](#Technoogy-evaluation)
+    -   [Founder/CoreTeam/Advisor](#Founder/CoreTeam/Advisor)
+    -   [Market Presence/Community/Supporter](#Market-Presence/Community/Supporter)
+    -   [Business Model](#Business-Model)
+    -   [Token Generation Event/Deal Structure](#Token-Generation-Event/Deal-Structure)
+    -   [Financial/Investment/Risk Analysis](#Financial/Investment/Risk Analysis)
+    -   [Legal/Security/Exit Plan](#Legal/Security/Exit Plan)
+    -   [Other]
 -   [Portfolio Management/Diversified](#Portfolio-Management/Diversified)
--   [Execution](#Execution)
 -   [Back test](#Back-test)
 -   [Education Source](#Education-Source)
--   [Technical Books(#Technical-Books)
 -   [About Video Resources](#About-Video-Resources)
 -   [Book List](#Book-List)
 -   [Industry Leader](#Industry-Leader)
@@ -26,14 +31,14 @@ Table of Contents
 
 This is my long-term research plan to be a Crypto Analyst through real-life problem and research material from books, industry leaders, online course and top-ranked course.
 
-My main goal was to find an approach to studying block-chain that is mainly hands-on and abstracts most of the Math for the beginner. This approach is unconventional because it’s the top-down and results-first approach designed for Financial Engineers.
+My main goal was to find an approach to studying block-chain that is mainly hands-on and practical for the beginner. The most common crypto hedge fund strategy is quantitative (37% of funds), followed by discretionary long/short (28%), discretionary long-only (20%), and multi-strategy (11%) (PWC 2021 report)
 
-In investing, there are two way for you to get your alpha (return) , you doing deep research or you processing the data you have faster. I choose the former and I want all of you to be a part of my journey.
+In retail investing and research, you get your alpha by DYOR (Do your own research) and deep research. The discretionary long-only or buy and hold is the most reasonable choice for most beginner. Quantitative, Long, Short, Future are for proffesional with advanced analytics and capitals.
 
 Please, feel free to make any contributions and feedback. 
 
 ## Why use it?
-I'm following this plan to finding the hidden Gem in Crypto Market. I've been study and working in Finance Industry since 2013. I have a Finance/Investment Banking degree, not a Financial Engineering degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university. 
+I'm following this plan to finding the hidden Gem in Crypto Market. I've been study and working in Finance Industry since 2013.  
 
 -   [5 ways to invest in blockchain boom?](https://www.investopedia.com/articles/investing/120315/5-ways-invest-blockchain-boom.asp)
 -   [What is the best way to invest in blockchain?](https://www.quora.com/What-is-the-best-way-to-invest-in-block-chain-technology)
@@ -51,8 +56,9 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
 -   [Binance Academy](https://academy.binance.com/en) - Cryptography, Economics, Consensus
 -   [Viet Nam Innovation Blockchain](https://www.facebook.com/groups/vietnamblockchaininnovation/) - Deep research from PHD 
 -   [Subtrate - Polkadot Learning Group](https://www.facebook.com/groups/935575770359855/user/100050591255279/) - Learn to be a Blockchain Developer
--   
-## ***Investment Strategies/Alpha/Feature Analysis:***
+-   [Crypto Hedge Fund Report](https://drive.google.com/file/d/1faUmbsRb43IvdMBTcpM2zq2lqXB-vc-J/view?usp=sharing)
+
+## ***Investment Due Diligence Checklist:***
 - Technical Strategies
     -   [Qlib](https://github.com/microsoft/qlib)
     -   [Finrl](https://github.com/AI4Finance-LLC/FinRL)
@@ -67,13 +73,6 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
 ## ***Back test:***
 - [Backtrader](https://github.com/mementum/backtrader)
 - [Backtest](https://github.com/pmorissette/bt)
-
-## ***Mathematics:***
--   [MIT mathematics](https://ocw.mit.edu/courses/mathematics/)
--   [Free test](https://www.varsitytutors.com/calculus_1-practice-tests#practice-tests-section)
--   [The algorithm](https://github.com/TheAlgorithms/C)
--   [C-plus-plus](https://github.com/TheAlgorithms/C-Plus-Plus)
--   [Awesome-Math(Must Read)](https://github.com/rossant/awesome-math)
 
 ## ***Book List:***
 [Bitcoin, ETH, KNC White paper, How to build your first BlockChain](https://drive.google.com/drive/folders/1zSJWx8KtwoWmktHTZoc9TXwkNRPv8-fv?usp=sharing)
