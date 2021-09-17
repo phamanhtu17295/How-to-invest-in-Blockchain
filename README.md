@@ -67,9 +67,9 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
 ## ***Market Presence/Community/Supporter:***
 ## ***Business Model:***
 ## ***Token Generation Event/Deal Structure:***
-## ***Financial/Investment/Risk Analysis:***
-## ***Legal/Security/Exit Plan:***
-## ***Other:***
+## ***Financial/Investment/Risk Analysis***
+## ***Legal/Security/Exit Plan***
+## ***Other***
 
 ## ***Crypto Signal/Advanced Analytics:***
 -   [Crypto Quant](https://cryptoquant.com/overview/btc-exchange-flows)
