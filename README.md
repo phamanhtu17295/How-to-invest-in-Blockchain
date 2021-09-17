@@ -5,7 +5,7 @@ Inspired by
     - [Hung Dinh](https://www.facebook.com/groups/857926278494577/user/1183070005/)
     - [Nguyen The Vinh](https://www.facebook.com/drofin69)
 
-How I (Tu Anh) doing analyst on blockchain project
+My first version on how to doing blockchain analyst/scoring for investment and research purpose
 
 Table of Contents
 =================
