@@ -20,8 +20,6 @@ Table of Contents
     -   [Financial/Investment/Risk Analysis](#Financial/Investment/Risk Analysis)
     -   [Legal/Security/Exit Plan](#Legal/Security/Exit Plan)
     -   [Other]
--   [Portfolio Management/Diversified](#Portfolio-Management/Diversified)
--   [Back test](#Back-test)
 -   [Education Source](#Education-Source)
 -   [About Video Resources](#About-Video-Resources)
 -   [Book List](#Book-List)
@@ -31,9 +29,11 @@ Table of Contents
 
 This is my long-term research plan to be a Crypto Analyst through real-life problem and research material from books, industry leaders, online course and top-ranked course.
 
-My main goal was to find an approach to studying block-chain that is mainly hands-on and practical for the beginner. The most common crypto hedge fund strategy is quantitative (37% of funds), followed by discretionary long/short (28%), discretionary long-only (20%), and multi-strategy (11%) (PWC 2021 report)
+My main goal was to find an approach to studying block-chain that is mainly hands-on and practical for the beginner. The most common crypto hedge fund strategy is quantitative (37% of funds), followed by discretionary long/short (28%), discretionary long-only (20%), and multi-strategy (11%) (PWC 2021 report).
 
 In retail investing and research, you get your alpha by DYOR (Do your own research) and deep research. The discretionary long-only or buy and hold is the most reasonable choice for most beginner. Quantitative, Long, Short, Future are for proffesional with advanced analytics and capitals.
+
+“All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest.” - Naval Ravikant -. Nobody become expert in blockchain market in one night, I believe in daily improvement everyday just like this project. 
 
 Please, feel free to make any contributions and feedback. 
 
@@ -58,21 +58,23 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
 -   [Subtrate - Polkadot Learning Group](https://www.facebook.com/groups/935575770359855/user/100050591255279/) - Learn to be a Blockchain Developer
 -   [Crypto Hedge Fund Report](https://drive.google.com/file/d/1faUmbsRb43IvdMBTcpM2zq2lqXB-vc-J/view?usp=sharing)
 
+
 ## ***Investment Due Diligence Checklist:***
-- Technical Strategies
-    -   [Qlib](https://github.com/microsoft/qlib)
-    -   [Finrl](https://github.com/AI4Finance-LLC/FinRL)
-    -   [Ta-lib](https://github.com/mrjbq7/ta-lib)
-- Fundamental Strategis(To be updated)
-    - Canlism, Buffett, Value, Growth, Piotroski, Altman, Beneish
+    ## ***Technoogy evaluation:***
 
-## ***Portfolio Management/Diversified:***
-- [MVO, Black Litter Man, HRP](https://github.com/robertmartin8/PyPortfolioOpt)
-- [Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib)
+    -   [Techonology evaluation](#Technoogy-evaluation)
+    -   [Founder/CoreTeam/Advisor](#Founder/CoreTeam/Advisor)
+    -   [Market Presence/Community/Supporter](#Market-Presence/Community/Supporter)
+    -   [Business Model](#Business-Model)
+    -   [Token Generation Event/Deal Structure](#Token-Generation-Event/Deal-Structure)
+    -   [Financial/Investment/Risk Analysis](#Financial/Investment/Risk Analysis)
+    -   [Legal/Security/Exit Plan](#Legal/Security/Exit Plan)
+    -   [Other]
 
-## ***Back test:***
-- [Backtrader](https://github.com/mementum/backtrader)
-- [Backtest](https://github.com/pmorissette/bt)
+## ***Crypto Signal:***
+-   [freqtrade](https://github.com/freqtrade/freqtrade)
+-   [Superalgos](https://github.com/Superalgos/Superalgos)
+-   [Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal)
 
 ## ***Book List:***
 [Bitcoin, ETH, KNC White paper, How to build your first BlockChain](https://drive.google.com/drive/folders/1zSJWx8KtwoWmktHTZoc9TXwkNRPv8-fv?usp=sharing)
@@ -86,17 +88,29 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
 -   [Vitalik Buterin 2.0](https://www.youtube.com/watch?v=XW0QZmtbjvs)
  
     
-## ***To be update: ***
-
 ## ***Industry Leader***
-- Viet Nam
+- Viet Nam - Facebook
+    -   [Hung Dinh](https://www.facebook.com/hungstartup)
+    -   [Tuong Vi](https://www.facebook.com/tuongvi65?comment_id=Y29tbWVudDoxMDIyNjE3MTU0ODI1MzUxMV8xMDIyNjE3MjIwNzk5MDAwNA%3D%3D)
+    -   [Thế Vinh](https://www.facebook.com/drofin69)
+    -   [Le Thanh](https://www.facebook.com/thanhle.lethanh)
+    -   [Long Vuong](https://www.facebook.com/longvuong22)
+    -   [Lynn Hoang](https://www.facebook.com/imlynnhoang)
+    -   [Binh Tran](https://www.facebook.com/dogchair)
+    -   [Dinh Ngoc Thanh](https://www.facebook.com/ngocthanhdinh/?show_switched_toast=0&show_switched_tooltip=0&show_podcast_settings=0)
+    -   [Dang Minh Tuan](https://www.facebook.com/tuanvietkey)
+- Foreign - Twitter
+    -   [Simon Seojoon Kim](https://twitter.com/seojoonkim)
+    -   [Alex Svanevik ✨](https://twitter.com/ASvanevik)
+    -   [Ashley](https://twitter.com/Aisashley)
+    -   [Jason Choi](https://twitter.com/mrjasonchoi)
+    -   [Larry Cermak](https://twitter.com/lawmaster)
+    -   [Matt Huang](https://twitter.com/matthuang)
+    -   [Daniel | NFTBank.ai](https://twitter.com/dan_nftbank)
+    -   [John Wu 🔺](https://twitter.com/John1wu)
+    -   [Péter Szilágyi (karalabe.eth)](https://twitter.com/peter_szilagyi)
+    -   [Larry Cermak](https://twitter.com/lawmaster)
+    -   [SpartanBlack](https://twitter.com/SpartanBlack_1)
+    -   [Elon Musk](https://twitter.com/elonmusk)
+    -   [CZ](https://twitter.com/cz_binance)
 
-- [Tech Ceo profile](https://drive.google.com/file/d/141XZCOJLoyxDXmGEl5pVLvjHBfKOPvRB/view?fbclid=IwAR1qGWKGY-XVinx66hWuyD5Rbzbxi1fbRyMGbAelgHV934Cjs7btdWoTTVU)
-- [Jim Simons - World's Smartest Billionaire](https://www.youtube.com/watch?v=6fr8XOtbPqM)
-- [Victor DeMiguel - Phd LonDon Business Schools](http://faculty.london.edu/avmiguel/)
-- [Marcos Lopez de Prado](https://www.linkedin.com/in/lopezdeprado/)
-- [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
-- [Stefan Jenson](https://www.linkedin.com/in/applied-ai/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAJd5GkBp46JxYaEjOiDeItfnkNe9boljUs)\
-- [Paul Wilmot](https://wilmott.com/)
-
-a
