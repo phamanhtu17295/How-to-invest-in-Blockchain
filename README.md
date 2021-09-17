@@ -162,3 +162,4 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
     -   [Elon Musk](https://twitter.com/elonmusk)
     -   [CZ](https://twitter.com/cz_binance)
 
+a
