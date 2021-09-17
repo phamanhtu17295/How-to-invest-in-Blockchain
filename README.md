@@ -19,6 +19,7 @@ Table of Contents
     -   [Token Generation Event/Deal Structure](#Token-Generation-Event/Deal-Structure)
     -   [Financial/Investment/Risk Analysis](#Financial/Investment/Risk-Analysis)
     -   [Legal/Security/Exit Plan](#Legal/Security/Exit-Plan)
+    -   [Blockchain Scoring/Peer review](#Blockchain-Scoring/Peer-review)
     -   [Other](#Other)
 -   [Crypto Signal/Advanced Analytics](#Crypto-Signal/Advanced-Analytics)
 -   [Education Source](#Education-Source)
@@ -61,22 +62,52 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
 
 
 ## ***Investment Due Diligence Checklist:***
-
 ## ***Technology evaluation:***
-
+    -   Quality Whitepaper
+    -   Innovation Product
+    -   Blockchain Technology Stack (Application, Services and Optional Components, Protocol, Network, Infrastructure)
+    -   Technical Roadmap
+    -   Adoption Rate/ Time Frame
+    -   Project Timeline/Code 
+    -   Quality of Code (Github)
 ## ***Founder/CoreTeam/Advisor:***
-
+    -   Verified Background & Reputation (linkedln, Github,Facebook, Google Research)
+    -   Experiences & Achievement & Portfolios
+    -   Industry/Proffesional Network
+    -   Vision/Mission/Culture
+    -   Venture Capital Support (crunchbase, angel, techdealasisa)
 ## ***Market Presence/Community/Supporter:***
-
+    -   Website Analytics (traffic, benchmark with competitor, Growth Rate)
+    -   Sentiment analysis/ Social Hearing
+    -   PR & Branding (Coverage by top crypto media, comment sections, Podcasts, Blogs, Reddit, Twitter, ICO Platforms, Research Institutes)
+    -   Social Presence (Twitter, Telegram, Facebook, Discord, Medium, Slack)
+    -   Community Interaction
 ## ***Business Model:***
-
+    -   Blockchain Technology Layer (Application, Services and Optional Components, Protocol, Network, Infrastructure)
+    -   Project Stage(Pre-seed, Seed, Early, Growth, Expansion, Exit)
 ## ***Token Generation Event/Deal Structure:***
-
+    -   Token Sale
+    -   Tokenomics
+    -   Token Release
+    -   Capital Allocation, The use of money investment
+    -   Trading Infrastrucutre (Listing, wallet, ecosystem)
+    -   Coin Wallet 
 ## ***Financial/Investment/Risk Analysis***
-
+    -   Market Cap (top 50, top 300, top 500)
+    -   Value at risk
+    -   Total transaction value daily
+    -   Market Share
+    -   Revenue
+    -   Direct & potential competitors & Peer Review 
+    -   Value Chain Analysis & Market structure & Growth Potential
 ## ***Legal/Security/Exit Plan***
+    -   Legal (Token Safe Harbor Proposal)
+    -   Security (Turing, Wasm,  On-Chain Governance)
+## ***Blockchain Scoring/Peer review***
+    - [Blockchain Scoring Sample](https://docs.google.com/spreadsheets/d/15f423oifh1bykmVEZBBJPgN7Q4jdEsKJ/edit?usp=sharing&ouid=108188781270068184296&rtpof=true&sd=true)
 
 ## ***Other***
+
 
 ## ***Crypto Signal/Advanced Analytics:***
 -   [Crypto Quant](https://cryptoquant.com/overview/btc-exchange-flows)
