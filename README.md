@@ -63,25 +63,31 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
 
 ## ***Investment Due Diligence Checklist:***
 ## ***Technology evaluation:***
-        -   Quality Whitepaper
-        -   Innovation Product
-        -   Blockchain Technology Stack (Application, Services and Optional Components, Protocol, Network, Infrastructure)
-        -   Technical Roadmap
-        -   Adoption Rate/ Time Frame
-        -   Project Timeline/Code 
-        -   Quality of Code (Github)
+
+    -   Quality Whitepaper
+    -   Innovation Product
+    -   Blockchain Technology Stack (Application, Services and Optional Components, Protocol, Network, Infrastructure)
+    -   Technical Roadmap
+    -   Adoption Rate/ Time Frame
+    -   Project Timeline/Code 
+    -   Quality of Code (Github)
+    
 ## ***Founder/CoreTeam/Advisor:***
+
     -   Verified Background & Reputation (linkedln, Github,Facebook, Google Research)
     -   Experiences & Achievement & Portfolios
     -   Industry/Proffesional Network
     -   Vision/Mission/Culture
     -   Venture Capital Support (crunchbase, angel, techdealasisa)
+    
 ## ***Market Presence/Community/Supporter:***
+
     -   Website Analytics (traffic, benchmark with competitor, Growth Rate)
     -   Sentiment analysis/ Social Hearing
     -   PR & Branding (Coverage by top crypto media, comment sections, Podcasts, Blogs, Reddit, Twitter, ICO Platforms, Research Institutes)
     -   Social Presence (Twitter, Telegram, Facebook, Discord, Medium, Slack)
     -   Community Interaction
+    
 ## ***Business Model:***
     -   Blockchain Technology Layer (Application, Services and Optional Components, Protocol, Network, Infrastructure)
     -   Project Stage(Pre-seed, Seed, Early, Growth, Expansion, Exit)
