@@ -57,7 +57,7 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
 -   [Binance Academy](https://academy.binance.com/en) - Cryptography, Economics, Consensus
 -   [Viet Nam Innovation Blockchain](https://www.facebook.com/groups/vietnamblockchaininnovation/) - Deep research from PHD 
 -   [Subtrate - Polkadot Learning Group](https://www.facebook.com/groups/935575770359855/user/100050591255279/) - Learn to be a Blockchain Developer
--   [Crypto Hedge Fund Report](https://drive.google.com/file/d/1faUmbsRb43IvdMBTcpM2zq2lqXB-vc-J/view?usp=sharing)
+-   [Crypto Hedge Fund Report](https://drive.google.com/file/d/1faUmbsRb43IvdMBTcpM2zq2lqXB-vc-J/view?usp=sharing) - PWC
 
 
 ## ***Investment Due Diligence Checklist:***
