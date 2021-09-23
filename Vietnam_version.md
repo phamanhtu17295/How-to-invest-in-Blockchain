@@ -29,23 +29,22 @@ Mục lục
 
 ## ***Tôi có gì cho bạn ?***
 
-This is my long-term research plan to be a Crypto Analyst through real-life problem and research material from books, industry leaders, online course and top-ranked course.
+Đây là một dự án nghiên cứu dài hạn của tôi về các cách tốt để thẩm định một dự án blockchain thông qua các dự án thức tế, các bài nghiên cứu khoa học, sách kỹ thuật, người có tầm ảnh hưởng và các khóa học trực tuyến.
 
-My main goal was to find an approach to studying block-chain that is mainly hands-on and practical for the beginner. The most common crypto hedge fund strategy is quantitative (37% of funds), followed by discretionary long/short (28%), discretionary long-only (20%), and multi-strategy (11%) (PWC 2021 report).
+Theo thống kê của PWC(5/2021), phương thức đầu tư phổ biến nhất trong quỹ crypto là đầu tư định lượng(37%), Mua và bán khống (28%), nắm giữ dài hạn (20%) và đa dạng chiến lược (11%). Trong đầu tư và thẩm định dự án cá nhân, phương pháp hợp lý nhất để có thể kiếm được lợi nhuận là dựa vào sự tự tìm hiểu nghiên và tìm hiểu sâu vì đa phần các chiến thuật còn lại tootns rất nhiều nguồn lực và công sức.
 
-In retail investing and research, you get your alpha by DYOR (Do your own research) and deep research. The discretionary long-only or buy and hold is the most reasonable choice for most beginner. Quantitative, Long, Short, Future are for proffesional with advanced analytics and capitals.
+"Tất cả mọi lợi tức bạn kiếm được từ cuộc sống từ sự thịnh vượng, các mối quan hệ hay tri thức đều đến từ lãi kép -  Naval Ravikant. Không ai trở thành chuyên gia về thẩm định dự án blockchain trong vòng 1 ngày, mình tin rằng việc cải tiến phương thức của mình mỗi ngày là điều vô cùng quan trọng.
 
-“All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest.” - Naval Ravikant -. Nobody become expert in blockchain market in one night, I believe in daily improvement everyday just like this project. 
-
-Please, feel free to make any contributions and feedback. 
+Mọi sự nhận định, hợp tác đều hết sức hoan nghênh.
 
 ## Tại sao lại sử dụng nó?
-I'm following this plan to finding the hidden Gem in Crypto Market. I've been study and working in Finance Industry since 2013.  
+Mình đi theo quy trình này để tìm kiếm các viên ngọc tho trong thị trường Crypto. Background của mình là thiên về tài chính và đầu tư trong thị trường cổ phiếu với một chút kiến thức về thuật toán, định lượng và AI. 
 
--   [5 ways to invest in blockchain boom?](https://www.investopedia.com/articles/investing/120315/5-ways-invest-blockchain-boom.asp)
--   [What is the best way to invest in blockchain?](https://www.quora.com/What-is-the-best-way-to-invest-in-block-chain-technology)
+-   [5 cách để bắt đầu đầu tư trong thời đại blockchain?](https://www.investopedia.com/articles/investing/120315/5-ways-invest-blockchain-boom.asp)
+-   [Cách tốt nhất để đầu tư vào blockchain?](https://www.quora.com/What-is-the-best-way-to-invest-in-block-chain-technology)
 
-I think the best way for investing-learning methodology is something like  ['practice — learning — practice'](https://www.google.com/search?q=Outliers%3A+The+Story+of+Success+summary&rlz=1C1VDKB_enVN943VN943&oq=Outliers%3A+The+Story+of+Success+summary&aqs=chrome..69i57j69i58.1627j0j7&sourceid=chrome&ie=UTF-8), that means where people first come to the market with some blockchain projects with problems and solutions (practice) to get familiar with traditional methods in the area and perhaps also with their methodology. After practicing with some elementary experiences, they can go into the market and study the underlying theory, which serves to guide their future advanced practice and will enhance their toolbox of solving practical problems. Studying theory also further improves their understanding on the elementary experiences, and will help them acquire advanced experiences more quickly.
+Từ nghiên cứu và trải nghiệm thực tiễn, mình nhận thấy phương thức đầu tư kết hợp giữa [Luyện tập - học - luyện tập](https://www.google.com/search?q=Outliers%3A+The+Story+of+Success+summary&rlz=1C1VDKB_enVN943VN943&oq=Outliers%3A+The+Story+of+Success+summary&aqs=chrome..69i57j69i58.1627j0j7&sourceid=chrome&ie=UTF-8). Khi mọi người mới băt đầu với blockchain có thể bắt đầu từ các dự án thực tiễn, 
+, that means where people first come to the market with some blockchain projects with problems and solutions (practice) to get familiar with traditional methods in the area and perhaps also with their methodology. After practicing with some elementary experiences, they can go into the market and study the underlying theory, which serves to guide their future advanced practice and will enhance their toolbox of solving practical problems. Studying theory also further improves their understanding on the elementary experiences, and will help them acquire advanced experiences more quickly.
 
 Investing is a life study plan. I am gonna update it when I have updated/trending information. Collaboration/ Team-Building is welcome.
 
