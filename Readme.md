@@ -119,8 +119,8 @@ Investing is a life study plan. I am gonna update it when I have updated/trendin
     
 ## ***Blockchain Scoring/Peer review***
 
-The first sample of blockchain scoring, you can download and customized it to your need. I will upload a sample analysis soon.
-https://docs.google.com/spreadsheets/d/15f423oifh1bykmVEZBBJPgN7Q4jdEsKJ/edit?usp=sharing&ouid=108188781270068184296&rtpof=true&sd=true
+The first sample of blockchain scoring - the Graph, you can download and customized it to your need. I will upload a sample analysis soon.
+https://docs.google.com/spreadsheets/d/1cbzTXCZ0nj6FMR1bIpHHPp82_NszmyNe/edit#gid=2110209561
 
 ## ***Other (To be updated)***
 
