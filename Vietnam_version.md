@@ -79,32 +79,30 @@ Từ nghiên cứu và trải nghiệm thực tiễn, mình nhận thấy phươ
 
 ## ***Sự kiện phát hành mã token/Cấu trúc thương vụ:***
 
--   Token Sale
--   Tokenomics
--   Token Release
--   Capital Allocation, The use of money investment
--   Trading Infrastrucutre (Listing, wallet, ecosystem)
--   Coin Wallet 
+-   Sự kiện phát hành mã token
+-   Kế hoạch phân bổ vốn
+-   Nền tảng giao dịch (Niêm yết, ví, hệ sinh thái)
+-   Ví điện tử 
 
 ## ***Hồ sơ tài chính/Chỉ số đầu tư/Phân tích rủi ro***
 
--   Market Cap (top 50, top 300, top 500)
--   Value at risk
--   Total transaction value daily
--   Market Share
--   Revenue
--   Direct & potential competitors & Peer Review 
--   Value Chain Analysis & Market structure & Growth Potential
+-   Vốn hóa (top 50, top 300, top 500)
+-   Var, Sharpe Ratio, Drawdown, Volatility (Đo lượng độ rủi ro)
+-   Tổng khối lượng giao dịch
+-   Thị phần
+-   Doanh thu/Lợi nhuận
+-   Đối thủ cạnh tranh trực tiếp 
+-   Phân tích chuỗi giá trị & Cơ cấu thị trường & Tiềm năng tăng trưởng
     
 ## ***Pháp lý/Bảo mật/Thoái vốn***
 
--   Legal (Token Safe Harbor Proposal)
--   Security (Turing, Wasm,  On-Chain Governance)
+-   Pháp lý 
+-   Bảo mật 
     
 ## ***Chấm điểm Dự án/So sánh tương quan các dự án kháckhác***
 
-The first sample of blockchain scoring, you can download and customized it to your need. I will upload a sample analysis soon.
-https://docs.google.com/spreadsheets/d/15f423oifh1bykmVEZBBJPgN7Q4jdEsKJ/edit?usp=sharing&ouid=108188781270068184296&rtpof=true&sd=true
+Đây là một bản mẫu chấm điểm cho một dự án Blockchain Graph, một dự án Big Data rất tiềm năng với nhiều ứng dụng thực tiễn đã được triển khai trên thị trường Crypto.
+https://docs.google.com/spreadsheets/d/1cbzTXCZ0nj6FMR1bIpHHPp82_NszmyNe/edit?usp=sharing&ouid=108188781270068184296&rtpof=true&sd=true
 
 ## ***Other (To be updated)***
 
@@ -153,7 +151,7 @@ https://docs.google.com/spreadsheets/d/15f423oifh1bykmVEZBBJPgN7Q4jdEsKJ/edit?us
     -   [Binh Tran](https://www.facebook.com/dogchair)
     -   [Dinh Ngoc Thanh](https://www.facebook.com/ngocthanhdinh/?show_switched_toast=0&show_switched_tooltip=0&show_podcast_settings=0)
     -   [Dang Minh Tuan](https://www.facebook.com/tuanvietkey)
-- Foreign - Twitter
+- Nước ngoài (CEO, Quỹ đầu tư lớn) - Twitter
     -   [Simon Seojoon Kim](https://twitter.com/seojoonkim)
     -   [Alex Svanevik ✨](https://twitter.com/ASvanevik)
     -   [Ashley](https://twitter.com/Aisashley)
