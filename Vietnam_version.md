@@ -43,42 +43,39 @@ Mình đi theo quy trình này để tìm kiếm các viên ngọc tho trong th�
 -   [5 cách để bắt đầu đầu tư trong thời đại blockchain?](https://www.investopedia.com/articles/investing/120315/5-ways-invest-blockchain-boom.asp)
 -   [Cách tốt nhất để đầu tư vào blockchain?](https://www.quora.com/What-is-the-best-way-to-invest-in-block-chain-technology)
 
-Từ nghiên cứu và trải nghiệm thực tiễn, mình nhận thấy phương thức đầu tư kết hợp giữa [Luyện tập - học - luyện tập](https://www.google.com/search?q=Outliers%3A+The+Story+of+Success+summary&rlz=1C1VDKB_enVN943VN943&oq=Outliers%3A+The+Story+of+Success+summary&aqs=chrome..69i57j69i58.1627j0j7&sourceid=chrome&ie=UTF-8). Khi mọi người mới băt đầu với blockchain có thể bắt đầu từ các dự án thực tiễn, 
-, that means where people first come to the market with some blockchain projects with problems and solutions (practice) to get familiar with traditional methods in the area and perhaps also with their methodology. After practicing with some elementary experiences, they can go into the market and study the underlying theory, which serves to guide their future advanced practice and will enhance their toolbox of solving practical problems. Studying theory also further improves their understanding on the elementary experiences, and will help them acquire advanced experiences more quickly.
-
-Investing is a life study plan. I am gonna update it when I have updated/trending information. Collaboration/ Team-Building is welcome.
+Từ nghiên cứu và trải nghiệm thực tiễn, mình nhận thấy phương thức đầu tư kết hợp giữa [Luyện tập - học - luyện tập](https://www.google.com/search?q=Outliers%3A+The+Story+of+Success+summary&rlz=1C1VDKB_enVN943VN943&oq=Outliers%3A+The+Story+of+Success+summary&aqs=chrome..69i57j69i58.1627j0j7&sourceid=chrome&ie=UTF-8). Khi mọi người mới băt đầu với blockchain có thể bắt đầu từ các dự án thực tiễn, áp dụng các mô hình phân tích để kiểm định thử các nhận đinh của mình và kiểm tra xem đã đúng với giả thuyết ban đầu của mình hay chưa và tiếp cục công việ cải thiên quy trình thẩm định của mình.
 
 ## ***Các điểm cốt lõi khi thẩm định dự án:***
 ## ***Đánh_giá_về_công_nghệ:***
 
--   Quality Whitepaper
--   Innovation Product
--   Blockchain Technology Stack (Application, Services and Optional Components, Protocol, Network, Infrastructure)
--   Technical Roadmap
--   Adoption Rate/ Time Frame
--   Project Timeline/Code 
--   Quality of Code (Github)
+-   Chất lượng của Whitepaper
+-   Sản phẩm có tính đột phá về công nghệ, giải quyết được bài toán khó trên thị trường
+-   Xây dựng trên nền tảng hệ thống Blockchain nào (Ứng dụng, dịch vụ, phương thức, hệ thống mạng, hạ tầng)
+-   Lộ trình phát triển kĩ thuật
+-   Tốc độ xử lí, tốc độ tương thích, được sử dụng, ứng dụng bởi các nền tảng khác
+-   Timeline của dự án
+-   Chất lượng của bộ code (Github)
     
 ## ***Founder/CoreTeam/Advisor:***
-
--   Verified Background & Reputation (linkedln, Github,Facebook, Google Research)
--   Experiences & Achievement & Portfolios
--   Industry/Proffesional Network
--   Vision/Mission/Culture
--   Venture Capital Support (crunchbase, angel, techdealasisa)
+-   Hồ sơ & Uy tín (Linkln, Github, Facebook, Google Research)
+-   Kinh nghiệm & Thành tựu & Danh mục dự án
+-   Mối quan hệ chuyên nghiệp với người đầu ngành, viện nghiên cứu, advisors
+-   Tâm nhìn/Mục tiêu/Chiến lược/Văn hóa công ty
+-   Hỗ trợ bởi các quỹ đầu tư thiên thân
 
 ## ***Thị phần/Cộng động/Người ủng hộ:***
 
--   Website Analytics (traffic, benchmark with competitor, Growth Rate)
--   Sentiment analysis/ Social Hearing
--   PR & Branding (Coverage by top crypto media, comment sections, Podcasts, Blogs, Reddit, Twitter, ICO Platforms, Research Institutes)
--   Social Presence (Twitter, Telegram, Facebook, Discord, Medium, Slack)
--   Community Interaction
+-   Website phân tích số liệu  (Lượng người sử dụng, so sánh với đối thủ cạnh tranh, tốc độ tăng trưởng)
+-   Phân tích tâm lý qua các nền tảng/ Lắng nghe phản hồi từ động đồng
+-   Quảng cáo & PR & Branding (có được lên sóng các trang thông tin lớn, Podcast, Blog, Reddit, Twitter)
+-   Độ phụ sóng trên các trang mạng xã hội (Twitter, Telegram, Facebook, Discord, Medium)
+
 
 ## ***Mô hình kinh doanh:***
-
+-   Layer 1,2,3,4 
+-   Xây dựng trên nền tảng hệ thống Blockchain nào (Ứng dụng, dịch vụ, phương thức, hệ thống mạng, hạ tầng)
 -   Blockchain Technology Layer (Application, Services and Optional Components, Protocol, Network, Infrastructure)
--   Project Stage(Pre-seed, Seed, Early, Growth, Expansion, Exit)
+-   Giai đoạn của dự án (Pre-seed, Seed, Early, Growth, Expansion, Exit)
 
 ## ***Sự kiện phát hành mã token/Cấu trúc thương vụ:***
 
@@ -124,6 +121,7 @@ https://docs.google.com/spreadsheets/d/15f423oifh1bykmVEZBBJPgN7Q4jdEsKJ/edit?us
    
 -   [Coin98](https://coin98.net/) - Investment Knowledge, Blockchain Ecosystem, News
 -   [beincrypto](https://beincrypto.vn/) - Investment Experience, Trending
+-   [GFS](https://www.youtube.com/watch?v=nlhJ2ujFmIQ) - Investment, Education
 -   [Banklesshq](https://banklesshq.com/) - Tactics, Strategy
 -   [Bitcoin Forum](https://bitcointalk.org/index.php?board=7.0&fbclid=IwAR0_82_aab4z1BzjZpeH68Lyr93iEgxyD7d8nq_uv1JlZSPg_4u5whnWYj4) - Forum
 -   [Binance Academy](https://academy.binance.com/en) - Cryptography, Economics, Consensus
