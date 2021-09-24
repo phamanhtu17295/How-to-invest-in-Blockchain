@@ -3,7 +3,6 @@
 
 Inspired by
     - [Hung Dinh](https://www.facebook.com/groups/857926278494577/user/1183070005/)
-    - [Nguyen The Vinh](https://www.facebook.com/drofin69)
 
 My first version on how to doing blockchain analyst/scoring for investment and research purpose
 
@@ -50,7 +49,7 @@ I think the best way for investing-learning methodology is something like  ['pra
 Investing is a life study plan. I am gonna update it when I have updated/trending information. Collaboration/ Team-Building is welcome.
 
 ## ***Education Source***
-   
+-   [RADA](https://www.facebook.com/groups/857926278494577) - DAO network    
 -   [Coin98](https://coin98.net/) - Investment Knowledge, Blockchain Ecosystem, News
 -   [beincrypto](https://beincrypto.vn/) - Investment Experience, Trending
 -   [Banklesshq](https://banklesshq.com/) - Tactics, Strategy
@@ -147,15 +146,18 @@ https://docs.google.com/spreadsheets/d/1cbzTXCZ0nj6FMR1bIpHHPp82_NszmyNe/edit#gi
     
 ## ***Industry Leader***
 - Viet Nam - Facebook
-    -   [Hung Dinh](https://www.facebook.com/hungstartup)
-    -   [Tuong Vi](https://www.facebook.com/tuongvi65?comment_id=Y29tbWVudDoxMDIyNjE3MTU0ODI1MzUxMV8xMDIyNjE3MjIwNzk5MDAwNA%3D%3D)
-    -   [Thế Vinh](https://www.facebook.com/drofin69)
-    -   [Le Thanh](https://www.facebook.com/thanhle.lethanh)
-    -   [Long Vuong](https://www.facebook.com/longvuong22)
-    -   [Lynn Hoang](https://www.facebook.com/imlynnhoang)
-    -   [Binh Tran](https://www.facebook.com/dogchair)
-    -   [Dinh Ngoc Thanh](https://www.facebook.com/ngocthanhdinh/?show_switched_toast=0&show_switched_tooltip=0&show_podcast_settings=0)
-    -   [Dang Minh Tuan](https://www.facebook.com/tuanvietkey)
+    -   [Hung Dinh - RADA](https://www.facebook.com/hungstartup)
+    -   [Trung Nguyen - AXIE](https://www.facebook.com/arvernorix)
+    -   [Thế Vinh - C98](https://www.facebook.com/drofin69)
+    -   [Le Thanh - C98](https://www.facebook.com/thanhle.lethanh)
+    -   [Loi Luu - Kyber Network](https://www.facebook.com/loiluuu)
+    -   [Long Vuong - TomoChain](https://www.facebook.com/longvuong22)
+    -   [Lynn Hoang - Binance](https://www.facebook.com/imlynnhoang)
+    -   [Tin Nguyen - Sipher](https://www.facebook.com/tintrungnguyen)
+    -   [Thuc Vu - Kambria](https://www.facebook.com/thuc.vu)
+    -   [Binh Tran - 500 startup](https://www.facebook.com/dogchair)
+    -   [Tung Tran - TK Venture](https://www.facebook.com/officialtung)
+    -   [Dang Minh Tuan - Vietkey](https://www.facebook.com/tuanvietkey)
 - Foreign - Twitter
     -   [Simon Seojoon Kim](https://twitter.com/seojoonkim)
     -   [Alex Svanevik ✨](https://twitter.com/ASvanevik)
