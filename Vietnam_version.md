@@ -38,6 +38,7 @@ Theo thống kê của PWC(5/2021), phương thức đầu tư phổ biến nh�
 Mọi sự nhận định, hợp tác đều hết sức hoan nghênh.
 
 ## Tại sao lại sử dụng nó?
+
 Mình đi theo quy trình này để tìm kiếm các viên ngọc tho trong thị trường Crypto. Background của mình là thiên về tài chính và đầu tư trong thị trường cổ phiếu với một chút kiến thức về thuật toán, định lượng và AI. 
 
 -   [5 cách để bắt đầu đầu tư trong thời đại blockchain?](https://www.investopedia.com/articles/investing/120315/5-ways-invest-blockchain-boom.asp)
@@ -57,6 +58,7 @@ Từ nghiên cứu và trải nghiệm thực tiễn, mình nhận thấy phươ
 -   Chất lượng của bộ code (Github)
     
 ## ***Founder/CoreTeam/Advisor:***
+
 -   Hồ sơ & Uy tín (Linkln, Github, Facebook, Google Research)
 -   Kinh nghiệm & Thành tựu & Danh mục dự án
 -   Mối quan hệ chuyên nghiệp với người đầu ngành, viện nghiên cứu, advisors
@@ -72,6 +74,7 @@ Từ nghiên cứu và trải nghiệm thực tiễn, mình nhận thấy phươ
 
 
 ## ***Mô hình kinh doanh:***
+
 -   Layer 1,2,3,4 
 -   Xây dựng trên nền tảng hệ thống Blockchain nào (Ứng dụng, dịch vụ, phương thức, hệ thống mạng, hạ tầng)
 -   Blockchain Technology Layer (Application, Services and Optional Components, Protocol, Network, Infrastructure)
@@ -107,6 +110,7 @@ https://docs.google.com/spreadsheets/d/1cbzTXCZ0nj6FMR1bIpHHPp82_NszmyNe/edit?us
 ## ***Other (To be updated)***
 
 ## ***Tín hiệu giao dịch Crypto/Công cụ phân tích chuyên sâu thị trường:***
+
 -   [Crypto Quant](https://cryptoquant.com/overview/btc-exchange-flows)
 -   [Messari](https://messari.io/)
 -   [GlassNode](https://studio.glassnode.com/dashboards/btc-core-on-chain)
@@ -129,9 +133,11 @@ https://docs.google.com/spreadsheets/d/1cbzTXCZ0nj6FMR1bIpHHPp82_NszmyNe/edit?us
 
 
 ## ***Thư viện sách:***
+
 [Bitcoin, ETH, KNC White paper, How to build your first BlockChain](https://drive.google.com/drive/folders/1zSJWx8KtwoWmktHTZoc9TXwkNRPv8-fv?usp=sharing)
 
 ## ***Khóa học video***
+
 -   [Build a cryptocurrency](https://www.youtube.com/watch?v=vJdT05zl6jk&list=PLwnSaD6BDfXL0RiKT_5nOIdxTxZWpPtAv&index=1)
 -   [Blockchain and Money](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/video-lectures/)\
 -   [How does Bitcoin Work](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
@@ -141,6 +147,7 @@ https://docs.google.com/spreadsheets/d/1cbzTXCZ0nj6FMR1bIpHHPp82_NszmyNe/edit?us
  
     
 ## ***Người có tầm ảnh hưởng***
+
 - Viet Nam - Facebook
     -   [Hung Dinh](https://www.facebook.com/hungstartup)
     -   [Tuong Vi](https://www.facebook.com/tuongvi65?comment_id=Y29tbWVudDoxMDIyNjE3MTU0ODI1MzUxMV8xMDIyNjE3MjIwNzk5MDAwNA%3D%3D)
